@@ -64,6 +64,14 @@ Technical support: <support@wuji.tech>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Wuji-Technology-Co-Ltd/wujihand-qt?style=flat-square"/></td>
     </tr>
     <tr>
+        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+            Teleoperation
+        </td>
+        <td><a href="https://github.com/Wuji-Technology-Co-Ltd/wuji_retargeting" target="_blank"> wuji_retargeting </a> <br> High-precision hand pose retargeting system using DexRetargeting algorithm. Supports Vision Pro hand tracking input for real-time teleoperation. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Wuji-Technology-Co-Ltd/wuji_retargeting?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Wuji-Technology-Co-Ltd/wuji_retargeting?style=flat-square"/></td>
+    </tr>
+    <tr>
         <td align="center" > Hardware Info </td>
         <td><a href="https://github.com/Wuji-Technology-Co-Ltd/wujihand-hardware-design" target="_blank"> wujihand-hardware-design </a> <br> Repo storing wujihand's hardware design resources. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wuji-Technology-Co-Ltd/wujihand-hardware-design?style=flat-square"/></td>
