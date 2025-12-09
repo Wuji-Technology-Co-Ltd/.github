@@ -77,6 +77,12 @@ Technical support: <support@wuji.tech>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wuji-Technology-Co-Ltd/wujihand-hardware-design?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Wuji-Technology-Co-Ltd/wujihand-hardware-design?style=flat-square"/></td>
     </tr>
+    <tr>
+        <td align="center" > Learning </td>
+        <td><a href="https://github.com/Wuji-Technology-Co-Ltd/robotics-rigid-body-mechanics" target="_blank"> robotics-rigid-body-mechanics </a> <br> Lecture notes on robotics rigid body mechanics: rotation, screw theory, dynamics, and multibody systems. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Wuji-Technology-Co-Ltd/robotics-rigid-body-mechanics?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Wuji-Technology-Co-Ltd/robotics-rigid-body-mechanics?style=flat-square"/></td>
+    </tr>
     </tbody>
 </table>
 
